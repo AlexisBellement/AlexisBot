@@ -1,0 +1,14 @@
+{
+  "name": "alexiiis_bot",
+  "version": "1.0.0",
+  "description": "Bot crée et développer par Alexiiis_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexiiis_",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
